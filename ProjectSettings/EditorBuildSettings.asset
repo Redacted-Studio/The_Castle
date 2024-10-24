@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 8a723e25c403c3d4aa3fa5923700dc78
+  - enabled: 1
     path: Assets/Scenes/PunyaBengkel.unity
     guid: 132399e743f259c4b800bcc2ae149fc4
   - enabled: 1
